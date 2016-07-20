@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iRssReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">delete</string>
+    <string name="action_comment">comment</string>
+    <string name="action_edit">action_edit</string>
+    <string name="action_about">关于</string>
+    
+    <string name="drop_down_list_header_default_text">Click to refresh&#8230;</string>
+    <string name="drop_down_list_header_pull_text">Drop Down to refresh&#8230;</string>
+    <string name="drop_down_list_header_release_text">Release to refresh&#8230;</string>
+    <string name="drop_down_list_header_loading_text">Loading&#8230;</string>
+    <string name="drop_down_list_footer_default_text">More</string>
+    <string name="drop_down_list_footer_loading_text">Loading&#8230;</string>
+    <string name="drop_down_list_footer_no_more_text">No More</string>
+    
+    <string name="rss_source_url">RSS源URL</string>
+    <string name="rss_source_title">RSS源名称</string>
+    <string name="button_ok">确定</string>
+    
+    <string name="setting_label">RSS源管理</string>
+    
+    <string name="image_content">image</string>
+    <string name="drop_down_tip">Pull down to refresh or scroll to bottom to load more</string>
+    <string name="update_at">updated at:&#160;</string>
+
+</resources>

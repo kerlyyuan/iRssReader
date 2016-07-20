@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rss_add_dialog"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+	    <EditText
+        android:id="@+id/et_add_title"
+        android:inputType="text"
+        android:hint="@string/rss_source_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp" />
+    
+	    <EditText
+        android:id="@+id/et_add_url"
+        android:inputType="textUri"
+        android:hint="@string/rss_source_url"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp" />
+
+</LinearLayout>
